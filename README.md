@@ -2,4 +2,4 @@
 
 ![Screenshot](example_images/example_off.jpg)
 
-![Screenshot](example_images/exampe_on.jpg)
+![Screenshot](example_images/example_on.jpg)
