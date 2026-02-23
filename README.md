@@ -13,10 +13,3 @@ on the board for debugging and visualising currents status.
 
 ![Screenshot](board_images/ESP32S3_RelayBoard.jpg)
 Test version of the use of board.
-
-![Screenshot](example_images/example_off.jpg)
-Simple example with Arduino.
-
-
-![Screenshot](example_images/example_on.jpg)
-Simple example with Arduino.
