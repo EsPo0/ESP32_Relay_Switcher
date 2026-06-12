@@ -11,5 +11,5 @@ Project is being developed to use an outside antenna for extended rage for real 
 on the board for debugging and visualising currents status. 
 
 
-![Screenshot](board_images/ESP32S3_RelayBoard.jpg)
+![Screenshot](board_images/ESP32S3_RelayBoard.png)
 Test version of the use of board.
